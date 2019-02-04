@@ -320,3 +320,11 @@ collab-oscargonzalez:
     webpage: https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/
     role: collab
     image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
+    
+grad-arelimoreno:
+    display_name: Areli Merari Moreno Fonseca
+    role: grad
+
+grad-jessikabuitrago:
+    display_name: Jessika Johana Buitrago Ramírez
+    role: grad

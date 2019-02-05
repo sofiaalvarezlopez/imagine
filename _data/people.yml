@@ -32,7 +32,7 @@ prof-johnguerra:
     role: faculty
     webpage: http://johnguerra.co
     github: john-guerra
-    role: faculty
+    role: collab
     image: /img/people/foto_JohnGuerra_2015.jpg
     bio: Assistant Professor
 
@@ -268,12 +268,12 @@ grad-philippFeix:
     display_name: Philipp Feix
     role: grad
     image: /img/people/foto_PhilippFeix.jpg
-    
+
 grad-praimbaud:
     display_name: Pierre Raimbaud
     role: grad
     image: /img/people/foto_PierreRaimbaud.jpg
-    
+
 grad-cynthiaOchoa:
     display_name: Cynthia Ochoa
     role: grad

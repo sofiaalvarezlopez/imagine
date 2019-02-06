@@ -5,7 +5,7 @@ description: Develop and implementation of a technique to solve the Multi-Travel
 
 people:
   - prof-fernandodelarosa
-  - grad-nelsonAndresSanchez
+  - prof-nelsonAndresSanchez
 
 layout: project  
 

@@ -181,6 +181,30 @@ ugrad-ricardoGonzalez:
     role: ugrad
     image: /img/people/Foto_RicardoGonzalez.jpg
 
+ugrad-camiloZambrano:
+    display_name: Camilo Zambrano Votto
+    role: ugrad-alum
+    webpage: https://cawolfkreo.github.io/
+    image: /img/people/foto_CamiloZambrano.jpg
+
+ugrad-zulmaCastañeda:
+    display_name: Zulma Lorena Castañeda Hidalgo
+    role: ugrad-alum
+    webpage: https://zlcastaneda10.github.io/
+    image: /img/people/foto_ZulmaCastanieda.jpg
+
+ugrad-camiloUseche:
+   display_name: Juan Camilo Useche
+   role: ugrad-alum
+   webpage: https://juancamilousecherodriguez.github.io/
+   image: /img/people/foto_juanUseche.jpg
+
+grad-johannGonzalez:
+   display_name: Johann Felipe González
+   role: grad-alum
+    #webpage: https://eacabello10.github.io/
+    #image: /img/people/foto_DiegoRodriguez.jpg
+
 grad-diegorodriguez:
     display_name: Diego Rodríguez
     role: grad
@@ -282,6 +306,14 @@ grad-EmilioAlvarado:
     webpage: https://github.com/emilioalvarado
     image: /img/people/foto_EmilioAlvarado.jpg
 
+grad-arelimoreno:
+    display_name: Areli Merari Moreno Fonseca
+    role: grad
+
+grad-jessikabuitrago:
+    display_name: Jessika Johana Buitrago Ramírez
+    role: grad
+    
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
     role: collab
@@ -323,4 +355,10 @@ collab-oscargonzalez:
     display_name: Prof Oscar González
     webpage: https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/
     role: collab
-image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
+    image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
+
+collab-robTeather:
+    display_name: Rob Teather
+    webpage: http://www.csit.carleton.ca/~rteather/
+    role: collab
+    image: http://www.csit.carleton.ca/~rteather/images/rt.jpg

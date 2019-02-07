@@ -301,6 +301,12 @@ grad-philippFeix:
 grad-cynthiaOchoa:
     display_name: Cynthia Ochoa
     role: grad
+    
+grad-EmilioAlvarado:
+    display_name: Emilio Andrés Alvarado Santis
+    role: grad
+    webpage: https://github.com/emilioalvarado
+    image: /img/people/foto_EmilioAlvarado.jpg
 
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez

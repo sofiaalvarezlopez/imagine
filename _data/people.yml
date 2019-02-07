@@ -1,4 +1,3 @@
-
 prof-josehernandez:
     display_name: José Tiberio Hernández
     role: faculty
@@ -29,10 +28,9 @@ prof-fernandodelarosa:
 
 prof-johnguerra:
     display_name: John Alexis Guerra Gómez
-    role: faculty
     webpage: http://johnguerra.co
     github: john-guerra
-    role: faculty
+    role: collab
     image: /img/people/foto_JohnGuerra_2015.jpg
     bio: Assistant Professor
 
@@ -45,6 +43,13 @@ prof-sebastiangil:
     image: /img/people/foto_SebastianGil.jpg
     bio: Instructor Professor
 
+prof-nelsonAndresSanchez:
+    display_name: Nelson Andres Sanchez O
+    role: faculty
+    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
+    role: faculty
+    image: /img/people/foto_NelsonAndresSanchez.jpg
+    bio: Instructor Professor
 
 alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez
@@ -69,7 +74,7 @@ alum-deisydiaz:
 
 ugrad-carlosGonzalez:
     display_name: Carlos Eduardo González Álvarez
-    role: ugrad-alum
+    role: ugrad
     webpage: https://cegonzalv.github.io
     image: /img/people/foto_CarlosGonzalez.png
 
@@ -81,7 +86,7 @@ ugrad-camiloAlfonso:
 
 ugrad-davidLaiton:
     display_name: Andrés David Laiton
-    role: ugrad-alum
+    role: ugrad
     webpage: https://daviddlaiton.github.io/
     image: /img/people/foto_AndresLaiton.jpg
 
@@ -155,13 +160,13 @@ ugrad-santiagoBeltran:
 
 ugrad-fabioLopez:
     display_name: Fabio Andrés López Corredor
-    role: ugrad-alum
+    role: ugrad
     webpage: https://falopez10.github.io/
     image: /img/people/foto_fabioLopez.jpeg
 
 ugrad-joanTorres:
     display_name: Joan David Torres Pinzón
-    role: ugrad-alum
+    role: ugrad
     webpage: https://github.com/JDTorresP/
     image: /img/people/foto_joanTorres.jpg
 
@@ -173,41 +178,17 @@ ugrad-eduardoCabello:
 
 ugrad-ricardoGonzalez:
     display_name: Ricardo Enrique Gonzalez Peñuela
-    role: ugrad-alum
+    role: ugrad
     image: /img/people/Foto_RicardoGonzalez.jpg
-
-ugrad-camiloZambrano:
-    display_name: Camilo Zambrano Votto
-    role: ugrad-alum
-    webpage: https://cawolfkreo.github.io/
-    image: /img/people/foto_CamiloZambrano.jpg
-
-ugrad-zulmaCastañeda:
-    display_name: Zulma Lorena Castañeda Hidalgo
-    role: ugrad-alum
-    webpage: https://zlcastaneda10.github.io/
-    image: /img/people/foto_ZulmaCastanieda.jpg
-
-ugrad-camiloUseche:
-   display_name: Juan Camilo Useche
-   role: ugrad-alum
-   webpage: https://juancamilousecherodriguez.github.io/
-   image: /img/people/foto_juanUseche.jpg
-
-grad-johannGonzalez:
-   display_name: Johann Felipe González
-   role: grad-alum
-    #webpage: https://eacabello10.github.io/
-    #image: /img/people/foto_DiegoRodriguez.jpg
 
 grad-diegorodriguez:
     display_name: Diego Rodríguez
-    role: grad-alum
+    role: grad
     image: /img/people/foto_DiegoRodriguez.jpg
 
 grad-juanCamiloIbarra:
     display_name: Juan Camilo Ibarra
-    role: grad-alum
+    role: grad
 
 grad-nycholBazurto:
     display_name: Nychol Bazurto
@@ -232,18 +213,12 @@ grad-fabianPenna:
     role: grad
     webpage: https://fabiancpl.github.io/
     image: /img/people/foto_fabianPenna.jpeg
-    
-grad-miguelFeijoo:
-    display_name: Miguel Alfonso Feijóo García 
-    role: grad
-    webpage: https://miguelalfonsofeijoo.wixsite.com/miguelfeijoo
-    image: /img/people/foto_miguelfeijoo.jpg
 
 grad-miguelFeijoo:
     display_name: Miguel Alfonso Feijóo G
     role: grad
     webpage: https://miguelalfonsofeijoo.wixsite.com/miguelfeijoo
-    # image: /img/people/foto_miguelFeijoo.jpg
+    image: /img/people/foto_miguelfeijoo.jpg
 
 grad-juanCamilo:
     display_name: Juan Camilo Ortiz Román
@@ -253,21 +228,15 @@ grad-juanCamilo:
 
 grad-julianaMM:
     display_name: Juliana Montes Maestre
-    role: grad-alum
+    role: grad
     webpage: https://www.behance.net/julyjula
     image: /img/people/foto_julianaMM.jpg
 
 grad-davidMayorga:
     display_name: David Ricardo Mayorga H.
-    role: grad-alum
+    role: grad
     webpage: http://damayor.github.io/
     image: /img/people/foto_davidMayorga.jpg
-
-grad-nelsonAndresSanchez:
-    display_name: Nelson Andres Sanchez O
-    role: grad
-    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
-    image: /img/people/foto_NelsonAndresSanchez.jpg
 
 grad-fmedina:
     display_name: Fabián Medina
@@ -298,10 +267,15 @@ grad-philippFeix:
     role: grad
     image: /img/people/foto_PhilippFeix.jpg
 
+grad-praimbaud:
+    display_name: Pierre Raimbaud
+    role: grad
+    image: /img/people/foto_PierreRaimbaud.jpg
+
 grad-cynthiaOchoa:
     display_name: Cynthia Ochoa
     role: grad
-    
+
 grad-EmilioAlvarado:
     display_name: Emilio Andrés Alvarado Santis
     role: grad
@@ -335,24 +309,18 @@ collab-maciejOrkisz:
     image: /img/people/foto_maciejOrkisz.png
 
 collab-dariocorreal:
-    display_name:  Dario Correal
+    display_name: Prof Dario Correal
     webpage: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/doku.php
     role: collab
     image: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/lib/exe/fetch.php?cache=&media=dcorreal.jpg
 
 collab-eliecergutierrez:
-    display_name:  Eliecer Gutierrez
+    display_name: Prof Eliecer Gutierrez
     webpage: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000145025
     role: collab
 
 collab-oscargonzalez:
-    display_name:  Oscar González
+    display_name: Prof Oscar González
     webpage: https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/
     role: collab
-    image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
-
-collab-robTeather:
-    display_name: Rob Teather
-    webpage: http://www.csit.carleton.ca/~rteather/
-    role: collab
-    image: http://www.csit.carleton.ca/~rteather/images/rt.jpg
+image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg

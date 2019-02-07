@@ -157,7 +157,8 @@ ugrad-camilaGarcia:
 ugrad-santiagoBeltran:
     display_name: Santiago Beltran
     role: ugrad-alum
-
+     webpage: https://webdevuniandes.github.io/sbeltran10/
+     
 ugrad-fabioLopez:
     display_name: Fabio Andrés López Corredor
     role: ugrad
@@ -180,6 +181,16 @@ ugrad-ricardoGonzalez:
     display_name: Ricardo Enrique Gonzalez Peñuela
     role: ugrad
     image: /img/people/Foto_RicardoGonzalez.jpg
+    
+ugrad-gabrielMartinez:
+    display_name: Gabriel Martínez Zarama
+    role: ugrad
+
+ ugrad-samuelBaquero:
+    display_name: Samuel Baquero Merchán
+    role: ugrad
+    webpage: https://samuelbaquero.github.io/MyWebsite/
+
 
 ugrad-camiloZambrano:
     display_name: Camilo Zambrano Votto
@@ -208,7 +219,7 @@ grad-johannGonzalez:
 grad-diegorodriguez:
     display_name: Diego Rodríguez
     role: grad
-    image: /img/people/foto_DiegoRodriguez.jpg
+    image: /img/people/foto_DiegoRodriguez.jpg    
 
 grad-juanCamiloIbarra:
     display_name: Juan Camilo Ibarra

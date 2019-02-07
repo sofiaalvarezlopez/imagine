@@ -157,6 +157,7 @@ ugrad-camilaGarcia:
 ugrad-santiagoBeltran:
     display_name: Santiago Beltran
     role: ugrad-alum
+    webpage: https://webdevuniandes.github.io./sbeltran10/
 
 ugrad-fabioLopez:
     display_name: Fabio Andrés López Corredor
@@ -198,6 +199,15 @@ ugrad-camiloUseche:
    role: ugrad-alum
    webpage: https://juancamilousecherodriguez.github.io/
    image: /img/people/foto_juanUseche.jpg
+
+ugrad-gabrielMartinez:
+   display_name: Gabriel Martínez Zarama
+   role: ugrad
+
+ugrad-samuelBaquero:
+  display_name: Samuel Baquero Merchán
+  role: ugrad
+  webpage: https://samuelbaquero.github.io/MyWebsite/
 
 grad-johannGonzalez:
    display_name: Johann Felipe González
@@ -313,7 +323,7 @@ grad-arelimoreno:
 grad-jessikabuitrago:
     display_name: Jessika Johana Buitrago Ramírez
     role: grad
-    
+
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
     role: collab

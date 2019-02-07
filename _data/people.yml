@@ -178,25 +178,25 @@ ugrad-ricardoGonzalez:
 
 ugrad-camiloZambrano:
     display_name: Camilo Zambrano Votto
-    role: ugrad
+    role: ugrad-alum
     webpage: https://cawolfkreo.github.io/
     image: /img/people/foto_CamiloZambrano.jpg
 
 ugrad-zulmaCastañeda:
     display_name: Zulma Lorena Castañeda Hidalgo
-    role: ugrad
+    role: ugrad-alum
     webpage: https://zlcastaneda10.github.io/
     image: /img/people/foto_ZulmaCastanieda.jpg
 
 ugrad-camiloUseche:
    display_name: Juan Camilo Useche
-    role: ugrad
-    webpage: https://juancamilousecherodriguez.github.io/
-    image: /img/people/foto_juanUseche.jpg
+   role: ugrad-alum
+   webpage: https://juancamilousecherodriguez.github.io/
+   image: /img/people/foto_juanUseche.jpg
 
 grad-johannGonzalez:
-    display_name: Johann Felipe González
-    role: grad
+   display_name: Johann Felipe González
+   role: grad-alum
     #webpage: https://eacabello10.github.io/
     #image: /img/people/foto_DiegoRodriguez.jpg
 
@@ -350,4 +350,3 @@ collab-robTeather:
     webpage: http://www.csit.carleton.ca/~rteather/
     role: collab
     image: http://www.csit.carleton.ca/~rteather/images/rt.jpg
-

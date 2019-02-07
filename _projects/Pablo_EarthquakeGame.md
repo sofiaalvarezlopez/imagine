@@ -1,15 +1,18 @@
 ---
 title: Earthquake Simulator
-
-description: This is a game to teach people some preventive tasks in case of earthquakes
+image:
+description: |
+  This is a game to teach people some preventive tasks in case of earthquakes
 
 people:
   - prof-pablofigueroa
   - ugrad-camiloZambrano
-  - ugrad-zulmaCastañeda
+  - ugrad-zulmaCastaï¿½eda
   - ugrad-camiloUseche
 
-
-layout: project
-
 research_area: Video Games
+
+layout: project  
+last-updated: 2019-02-06
+---
+This is a game to teach people some preventive tasks in case of earthquakes

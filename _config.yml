@@ -58,6 +58,8 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
+  - title: Schedule
+    link: /schedule.html
   # - title: Publications
   #   link: /publications.html
   - title: Partners

@@ -62,7 +62,10 @@ alum-danielwilches:
 alum-deisydiaz:
     display_name: Deisy Díaz Pérez
     role: alum
-
+    
+alum-davidMayorga:
+    display_name: David Ricardo Mayorga H.
+    role: alum
 
 # profx:
 #     display_name: Professor X
@@ -265,12 +268,6 @@ grad-julianaMM:
     role: grad
     webpage: https://www.behance.net/julyjula
     image: /img/people/foto_julianaMM.jpg
-
-grad-davidMayorga:
-    display_name: David Ricardo Mayorga H.
-    role: grad
-    webpage: https://www.linkedin.com/in/davidmayorgaherrera/
-    image: /img/people/foto_DavidMayorga.jpg
 
 grad-fmedina:
     display_name: Fabián Medina

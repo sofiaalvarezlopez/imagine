@@ -50,6 +50,14 @@ prof-nelsonAndresSanchez:
     role: faculty
     image: /img/people/foto_NelsonAndresSanchez.jpg
     bio: Instructor Professor
+    
+prof-carolinaHiguera:
+    display_name: Carolina Higuera Arias
+    role: faculty
+    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
+    role: faculty
+    image: /img/people/foto_CarolinaHiguera.jpg
+    bio: Instructor Professor
 
 alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez

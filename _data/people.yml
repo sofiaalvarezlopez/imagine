@@ -181,6 +181,12 @@ ugrad-joanTorres:
     role: ugrad
     webpage: https://github.com/JDTorresP/
     image: /img/people/foto_joanTorres.jpg
+    
+ugrad-sofiaAlvarez:
+    display_name: María Sofía Álvarez López
+    role: ugrad
+    webpage: https://sofiaalvarezlopez.github.io/
+    image: /img/people/foto_sofiaAlvarez.jpg
 
 ugrad-eduardoCabello:
     display_name: Eduardo Arturo Cabello Agüero

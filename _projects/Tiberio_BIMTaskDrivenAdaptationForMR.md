@@ -7,6 +7,7 @@ people:
   - prof-josehernandez
   - prof-pablofigueroa
   - grad-praimbaud
+  - ugrad-sofiaAlvarez
 
 research_area: Mixed Realities
 
